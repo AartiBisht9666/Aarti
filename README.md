@@ -132,15 +132,15 @@ Hello! I'm <b>Aarti Bisht</b>, a passionate <b>Data Scientist</b> who loves tran
 </P>Working on integrating data science with real-world applications like smart healthcare, fintech, and sustainability analytics.</P>
 </p>Work on innovative projects involving deep learning, big data, and automation.</p>
 
-</p>
+
 
 <hr color="blue">
 
 
 <h2> 🧠 Fun Fact</h2>
     
-<p></p>When I'm not analyzing data, you can find me exploring new tech trends, reading research papers, or designing data visualizations!</p>
-</ul>
+<p>When I'm not analyzing data, you can find me exploring new tech trends, reading research papers, or designing data visualizations!</p>
+
 
 <hr color="blue">
 
