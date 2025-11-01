@@ -129,8 +129,8 @@ Hello! I'm <b>Aarti Bisht</b>, a passionate <b>Data Scientist</b> who loves tran
 <h2>🚀 Future Work & Technologies</h2>
 
 🔮 Exploring <b>Generative AI</b>, <b>Large Language Models (LLMs)</b>, and <b>AI Automation</b> for data-driven innovation. 
-Working on integrating data science with real-world applications like smart healthcare, fintech, and sustainability analytics.
-Work on innovative projects involving deep learning, big data, and automation.
+<p>Working on integrating data science with real-world applications like smart healthcare, fintech, and sustainability analytics.
+<p></p>Work on innovative projects involving deep learning, big data, and automation.
 
 
 
