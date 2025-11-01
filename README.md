@@ -127,10 +127,10 @@ Hello! I'm <b>Aarti Bisht</b>, a passionate <b>Data Scientist</b> who loves tran
 
 
 <h2>🚀 Future Work & Technologies</h2>
-<p>
-</p>🔮 Exploring <b>Generative AI</b>, <b>Large Language Models (LLMs)</b>, and <b>AI Automation</b> for data-driven innovation. </P> 
+
+</p>🔮 Exploring <b>Generative AI</b>, <b>Large Language Models (LLMs)</b>, and <b>AI Automation</b> for data-driven innovation.</P> 
 </P>Working on integrating data science with real-world applications like smart healthcare, fintech, and sustainability analytics.</P>
-</p>Work on innovative projects involving deep learning, big data, and automation.</p>
+Work on innovative projects involving deep learning, big data, and automation.
 
 
 
@@ -139,7 +139,7 @@ Hello! I'm <b>Aarti Bisht</b>, a passionate <b>Data Scientist</b> who loves tran
 
 <h2> 🧠 Fun Fact</h2>
     
-<p>When I'm not analyzing data, you can find me exploring new tech trends, reading research papers, or designing data visualizations!</p>
+When I'm not analyzing data, you can find me exploring new tech trends, reading research papers, or designing data visualizations!
 
 
 <hr color="blue">
