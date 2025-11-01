@@ -147,7 +147,7 @@ When I'm not analyzing data, you can find me exploring new tech trends, reading 
 
 <h2>📫 Contact Me</h2>
 <p>
-📧 Email: <a href="mailto:aarti.bisht@example.com">aarti.bisht@example.com</a><br>
+📧 Email: <a href="mailto:aarti.bisht@.com">aarti.bisht@.com</a><br>
 💼 LinkedIn: <a href="https://linkedin.com/in/aarti-bisht">linkedin.com/in/aarti-bisht</a><br>
 🌐 Portfolio Website: <a href="#">www.aartibisht.com</a><br>
 📊 GitHub: <a href="https://github.com/aartibisht">github.com/aartibisht</a>
