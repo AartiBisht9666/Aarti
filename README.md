@@ -8,9 +8,9 @@
 <h2>🌟 About Me</h2>
 
 Hello! I'm <b>Aarti Bisht</b>, a passionate <b>Data Scientist</b> who loves transforming raw data into meaningful insights.  
-I enjoy exploring data, building predictive models, and telling compelling stories through analytics.  
-I’m continuously learning new technologies and aim to contribute to projects that make data-driven decisions easier and smarter.
-      My goal is to bridge the gap between technology and business intelligence."Data is not just numbers — it’s a story waiting to be told."
+<p>I enjoy exploring data, building predictive models, and telling compelling stories through analytics. <p></p> 
+<p>I’m continuously learning new technologies and aim to contribute to projects that make data-driven decisions easier and smarter.<p>
+     <p> My goal is to bridge the gap between technology and business intelligence.<p>"Data is not just numbers — it’s a story waiting to be told."</p>
 
 </p>
 
@@ -31,9 +31,9 @@ I’m continuously learning new technologies and aim to contribute to projects t
 
 <h2>🛠️ Tools & Technologies</h2>
 <p>
-⚙️ <b>Tools:</b> Jupyter Notebook, Google Colab, VS Code, Anaconda  
-💻 <b>Technologies:</b> Machine Learning, Deep Learning, Artificial Intelligence, Data Wrangling, Cloud Computing (AWS, Azure)
-</p>
+<p>⚙️ <b>Tools:</b> Jupyter Notebook, Google Colab, VS Code, Anaconda </p> 
+</p>💻 <b>Technologies:</b> Machine Learning, Deep Learning, Artificial Intelligence, Data Wrangling, Cloud Computing (AWS, Azure)</p>
+
 
 <hr color="blue">
 
